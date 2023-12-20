@@ -1,0 +1,7 @@
+git commands
+
+for git init where git repo will be created
+git status wherein to know file details in working directory
+git add to track all working directory 
+git commit where in sharing from working direcroy to locatl repo
+git push from staged to server repo
